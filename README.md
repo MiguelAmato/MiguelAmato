@@ -6,9 +6,7 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
+<h2 align="left">Programming languages and Tools:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -29,7 +27,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <h2 align="left">Connect with me:</h2>
