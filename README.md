@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h3 align="left">Connect with me:</h3>
