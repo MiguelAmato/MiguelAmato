@@ -8,6 +8,8 @@
 
 <h2 align="left">Programming languages and Tools:</h2>
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -27,9 +29,10 @@
 </div>
 
 ###
+
 <br clear="both">
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
@@ -49,6 +52,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/MiguelAmato/MiguelAmato/output/snake.svg" alt="Snake animation" />
 
