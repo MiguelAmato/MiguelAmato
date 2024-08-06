@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer engineering student with 3 years of academic experience, passionate about programming and problem-solving. <br><br>I'm currently working on projects related to advanced algorithmics, computer language processing, and blockchain technology.</p>
+<p align="left">Computer engineering student with 4 years of academic experience, passionate about programming and problem-solving. <br><br>I'm currently working in my Bachelor’s Thesis (TFG) related to web development and language models in the medical field.</p>
 
 ###
 
@@ -46,9 +46,3 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAmato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MiguelAmato/MiguelAmato/output/snake.svg" alt="Snake animation" />
-
-###
